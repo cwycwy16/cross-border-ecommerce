@@ -1,0 +1,7 @@
+interface:
+  display_name: "跨境美工"
+  short_description: "根据商品资料与来源图制作 TikTok Shop 主图、SKU 图和详情页图文"
+  default_prompt: "Use $tiktok-shop-product-art to make a fact-checked TikTok Shop image set."
+policy:
+  allow_implicit_invocation: true
+
